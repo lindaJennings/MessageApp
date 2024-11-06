@@ -3,9 +3,9 @@ Author: Heini-Linda Jennings
 
 ## Project team: NOVA
 ### Members
-PO: Linda Jennings
+Product Owner: Linda Jennings
 
-SM: Jodie Jobsworth
+Scrum Master: Jodie Jobsworth
 
 QA: Terry Test
 
@@ -18,9 +18,20 @@ Head of Risk: Richie Risk
 
 Head of Marketing: Anna Advert
 
+Parter company Project Manager: Danny Different
+
 ## Project scope
 
+The scope of this project is to create a live messaging functionality on our partner collaboration tool.
+
 ## High level requirements
+
+1. Conduct UX review
+2. Create a working prototype
+3. Customer testing
+4. Code, test, release
+5. Platform integration
+6. Check system and security
 
 ## Issue template
 When creating issues in the backlog, please follow the format below. 
